@@ -6,7 +6,7 @@
 <div style="display:flex;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashunasar&theme=dracula&hide_border=false" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashunasar&layout=compact&theme=dracula" />
+<img src="https://readme-stats-ashunasar.vercel.app/api/top-langs/?username=ashunasar&layout=compact&theme=dracula" />
 
 </div>
 <h1 id="-tech-stack-">💻 Tech Stack:</h1>
