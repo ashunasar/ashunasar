@@ -31,4 +31,4 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashunasar&" alt="ashunasar" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Asim Siddiqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashunasar)](https://github.com/anuraghazra/github-readme-stats)
