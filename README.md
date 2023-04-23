@@ -30,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashunasar&show_icons=true&locale=en" alt="ashunasar" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashunasar&" alt="ashunasar" /></p>
-
-[![Asim Siddiqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashunasar)](https://github.com/anuraghazra/github-readme-stats)
