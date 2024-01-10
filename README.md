@@ -43,4 +43,5 @@
 <br>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashunasar&show_icons=true&locale=en" alt="ashunasar" /></p> -->
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashunasar&" alt="ashunasar" /></p>
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=ashunasar" alt="ashunasar" /></p>
