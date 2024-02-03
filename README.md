@@ -47,9 +47,9 @@
 <p><img align="center" src="https://streak-stats.demolab.com/?user=ashunasar" alt="ashunasar" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
@@ -80,19 +80,19 @@ Sunday                   488 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     21 hrs 55 mins      ██████████████████████░░░   86.47 % 
-TypeScript               3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Dart                     20 hrs 40 mins      █████████████████████░░░░   85.17 % 
+TypeScript               3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/02/2024 01:02:48 UTC
+ Last Updated on 03/02/2024 01:01:53 UTC
 <!--END_SECTION:waka-->
