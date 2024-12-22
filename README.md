@@ -47,7 +47,7 @@
 <p><img align="center" src="https://streak-stats.demolab.com/?user=ashunasar" alt="ashunasar" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C155%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -126,5 +126,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2024 01:22:46 UTC
+ Last Updated on 22/12/2024 01:29:49 UTC
 <!--END_SECTION:waka-->
