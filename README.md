@@ -47,7 +47,7 @@
 <p><img align="center" src="https://streak-stats.demolab.com/?user=ashunasar" alt="ashunasar" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C189%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C191%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -56,6 +56,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 425.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 41 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,5 +125,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2025 01:38:05 UTC
+ Last Updated on 13/01/2025 01:27:48 UTC
 <!--END_SECTION:waka-->
