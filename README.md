@@ -45,7 +45,9 @@
 <br>
 
  <!--<p><img align="center" src="https://streak-stats.demolab.com/?user=ashunasar" alt="ashunasar" /></p>-->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ashunasar" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ashunasar" alt="GitHub Streak" /></a>-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashunasar)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C231%20hrs%2050%20mins-blue)
