@@ -50,7 +50,7 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashunasar)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C308%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C313%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -128,5 +128,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2025 01:27:49 UTC
+ Last Updated on 10/02/2025 01:23:54 UTC
 <!--END_SECTION:waka-->
