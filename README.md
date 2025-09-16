@@ -50,7 +50,7 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashunasar)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C862%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C862%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -59,6 +59,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 455.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 996 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,5 +128,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2025 01:45:34 UTC
+ Last Updated on 16/09/2025 01:28:58 UTC
 <!--END_SECTION:waka-->
