@@ -42,7 +42,7 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashunasar)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C899%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C899%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.9%20million%20lines%20of%20code-blue)
 
@@ -111,5 +111,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2025 01:43:14 UTC
+ Last Updated on 23/11/2025 01:57:38 UTC
 <!--END_SECTION:waka-->
