@@ -85,16 +85,17 @@ Sunday                   4310 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 mins              ███████████████████░░░░░░   76.15 % 
+JSON                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+experiments              11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -110,5 +111,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2025 01:48:25 UTC
+ Last Updated on 04/12/2025 01:49:19 UTC
 <!--END_SECTION:waka-->
