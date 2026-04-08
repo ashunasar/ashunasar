@@ -42,7 +42,7 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashunasar)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C148%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C150%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.96%20million%20lines%20of%20code-blue?style=flat)
 
@@ -85,16 +85,18 @@ Sunday                   4745 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 11 mins       █████████████████████████   100.00 % 
+TypeScript               6 hrs 51 mins       ████████████████████████░   97.49 % 
+Dart                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ExploRND_US_C3_FE        3 hrs 11 mins       █████████████████████████   100.00 % 
+ExploRND_US_C3_FE        6 hrs 51 mins       ████████████████████████░   97.49 % 
+alignmates               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 💻 Operating System: 
-Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -110,5 +112,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2026 02:41:10 UTC
+ Last Updated on 08/04/2026 02:42:13 UTC
 <!--END_SECTION:waka-->
