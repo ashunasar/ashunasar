@@ -42,8 +42,6 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashunasar)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C237%20hrs%202%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.15%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -71,5 +69,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 03:40:37 UTC
+ Last Updated on 15/05/2026 03:43:56 UTC
 <!--END_SECTION:waka-->
