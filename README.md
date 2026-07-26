@@ -42,6 +42,8 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashunasar)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C452%20hrs%205%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.37%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -56,6 +58,54 @@
  > 
 > 🔑 67 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6020 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+🌆 Daytime                11974 commits       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌃 Evening                16386 commits       █████████░░░░░░░░░░░░░░░░   36.61 % 
+🌙 Night                  10384 commits       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   6638 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Tuesday                  5985 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Wednesday                5770 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Thursday                 5663 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Friday                   5282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Saturday                 7506 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Sunday                   7920 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Dart                     15 hrs 34 mins      █████████████████░░░░░░░░   69.10 % 
+TypeScript               5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+
+🔥 Editors: 
+VS Code                  20 hrs 30 mins      ███████████████████████░░   90.97 % 
+Claude Code              2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+
+🐱‍💻 Projects: 
+alignmates               16 hrs 17 mins      ██████████████████░░░░░░░   72.30 % 
+alignmates_backend       6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+3.44.0                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+repo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Mac                      22 hrs 32 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -69,5 +119,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:53:13 UTC
+ Last Updated on 26/07/2026 03:02:43 UTC
 <!--END_SECTION:waka-->
