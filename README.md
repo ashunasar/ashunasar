@@ -72,7 +72,7 @@ I'm <strong>Asim Nasar Siddiqui</strong>, a Flutter Developer from 🇮🇳 Indi
 > *Automatically updated every day using WakaTime.*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C510%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C510%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.22%20million%20lines%20of%20code-blue?style=flat)
 
@@ -101,16 +101,16 @@ I'm <strong>Asim Nasar Siddiqui</strong>, a Flutter Developer from 🇮🇳 Indi
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-<svg width="720" viewBox="0 0 720 92" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">Markdown</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">6 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="163" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">45.15%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#C9D1D9">Python</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">4 mins</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="30" width="114" height="8" rx="6" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">31.68%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#C9D1D9">Other</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8B949E">3 mins</text><rect x="280" y="54" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="54" width="83" height="8" rx="6" fill="#58A6FF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8B949E">23.17%</text></svg>
+<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">Python</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">1 hr 47 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="338" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">93.88%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#C9D1D9">Markdown</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">6 mins</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="30" width="22" height="8" rx="6" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">6.12%</text></svg>
 
 🔥 Editors: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">Claude Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">12 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="298" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">82.91%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#C9D1D9">VS Code</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">2 mins</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="30" width="62" height="8" rx="6" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">17.09%</text></svg>
+<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">Claude Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">1 hr 8 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="218" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">60.49%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#C9D1D9">VS Code</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">45 mins</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="30" width="142" height="8" rx="6" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">39.51%</text></svg>
 
 🐱‍💻 Projects: 
-<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">alterigo.backend.analyst.</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">15 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="360" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">100.00%</text></svg>
+<svg width="720" viewBox="0 0 720 92" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">alterigo.backend.analyst.</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">1 hr 9 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="218" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">60.52%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#C9D1D9">alterigo.core.backend</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">33 mins</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="30" width="105" height="8" rx="6" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">29.09%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#C9D1D9">alchemist.kernel</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8B949E">11 mins</text><rect x="280" y="54" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="54" width="37" height="8" rx="6" fill="#58A6FF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8B949E">10.39%</text></svg>
 
 💻 Operating System: 
-<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">Mac</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">15 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="360" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">100.00%</text></svg>
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">Mac</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">1 hr 54 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="360" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">100.00%</text></svg>
 
 
 **I Mostly Code in Dart** 
@@ -120,7 +120,7 @@ I'm <strong>Asim Nasar Siddiqui</strong>, a Flutter Developer from 🇮🇳 Indi
 
 
 
- Last Updated on 27/10/2026 04:14:04 UTC
+ Last Updated on 28/10/2026 04:40:31 UTC
 <!--END_SECTION:waka-->
 
 ---
