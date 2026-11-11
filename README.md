@@ -95,7 +95,70 @@ Off the clock, I'm a part-time stand-up comedian. Debugging in production taught
 Generated automatically from my WakaTime account by [a scheduled GitHub Action](.github/workflows/waka-readme.yml). Nothing in this section is hand-written.
 
 <!--START_SECTION:waka-->
-_Metrics will appear here after the first successful run of the **WakaTime README** workflow._
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C528%20hrs%2011%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7118 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+🌆 Daytime                14149 commits       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+🌃 Evening                18994 commits       █████████░░░░░░░░░░░░░░░░   36.17 % 
+🌙 Night                  12253 commits       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   7710 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Tuesday                  7161 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Wednesday                6790 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Thursday                 6705 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Friday                   6180 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Saturday                 8724 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Sunday                   9244 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Dart                     6 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.98 % 
+TypeScript               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+YAML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 16 mins       █████████████░░░░░░░░░░░░   51.19 % 
+Claude Code              5 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.81 % 
+
+🐱‍💻 Projects: 
+alignmates               6 hrs 36 mins       █████████████░░░░░░░░░░░░   53.88 % 
+alignmates_backend       2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+digi_rep_app             1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+alterigo.backend.analyst.1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+alterigo.core.backend    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+
+💻 Operating System: 
+Mac                      12 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Dart** 
+
+```text
+TypeScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Shell                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+```
+
+
+
+
+ Last Updated on 11/11/2026 04:10:24 UTC
 <!--END_SECTION:waka-->
 
 <br />
