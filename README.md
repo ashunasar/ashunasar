@@ -1,182 +1,119 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ============================== HERO ============================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Asim%20Nasar%20Siddiqui&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Flutter%20Developer%20•%20Full%20Stack%20Engineer&descAlignY=56&animation=fadeIn"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4F46E5,50:3B82F6,100:06B6D4&text=Asim%20Nasar%20Siddiqui&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full-Stack%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="Asim Nasar Siddiqui — Flutter Developer | Full-Stack Engineer" />
 
-<h1 align="center">Hey there! 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&height=36&lines=Polished+Flutter+apps.;Scalable+NestJS+backends.;Complete+products%2C+end+to+end." alt="Polished Flutter apps. Scalable NestJS backends. Complete products, end to end." />
 
-<p align="center">
-I'm <strong>Asim Nasar Siddiqui</strong>, a Flutter Developer from 🇮🇳 India passionate about crafting beautiful mobile experiences, scalable backend systems, and products that people love.
-</p>
+<br />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Engineer;NestJS+%7C+TypeScript+%7C+Node.js;Building+Products+That+Matter;Always+Learning+Something+New"/>
-</p>
+<a href="https://linkedin.com/in/ashunasar"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:asimsiddiqui20172017@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://twitter.com/ashunasar023"><img src="https://img.shields.io/badge/X-0891B2?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 
-<p align="center">
+</div>
 
-<a href="https://github.com/ashunasar">
-<img src="https://img.shields.io/github/followers/ashunasar?label=Followers&style=for-the-badge&logo=github"/>
-</a>
+<br />
 
-<a href="https://github.com/ashunasar?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repos-43-blue?style=for-the-badge&logo=github"/>
-</a>
+## About
 
-</p>
+I build complete products, from polished **Flutter** mobile apps to the **scalable backends** that power them. I care about clean architecture, system design, and shipping software that holds up in production.
 
----
+My day-to-day sits across Flutter and Dart on the client and Node.js, NestJS and TypeScript on the server, with MongoDB and PostgreSQL underneath.
 
-# 🚀 About Me
+Off the clock, I'm a part-time stand-up comedian. Debugging in production taught me timing; the stage taught me to handle a tough crowd.
 
-- 🔭 Currently building **Alignmates** & **Flax Card**
-- 🌱 Learning **NestJS**, **System Design** & **Cloud Architecture**
-- 💙 Passionate about **Flutter**, **Clean Architecture**, and scalable applications
-- 💬 Ask me about **Flutter**, **Dart**, **NestJS**, **Node.js**, **React**, or **MongoDB**
-- 🎤 Part-time Stand-up Comedian
-- ☕ Powered by coffee and curiosity
+<br />
 
----
+## What I'm Working On
 
-# 🛠️ Tech Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Alignmates</h3>
+      <p>In active development.</p>
+      <!-- TODO: add a one-line description and a link once the project is public. -->
+    </td>
+    <td width="50%" valign="top">
+      <h3>Flax Card</h3>
+      <p>In active development.</p>
+      <!-- TODO: add a one-line description and a link once the project is public. -->
+    </td>
+  </tr>
+</table>
 
-### 📱 Mobile
+<br />
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift"/>
-</p>
+## Technology Stack
 
-### ⚙️ Backend
+**Mobile**<br />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=10" alt="Flutter, Dart, Firebase" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,redis,graphql"/>
-</p>
+**Backend**<br />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,ts&perline=10" alt="Node.js, NestJS, Express, GraphQL, TypeScript" />
 
-### 🌐 Frontend
+**Frontend**<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&perline=10" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap"/>
-</p>
+**Databases & Infrastructure**<br />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,docker&perline=10" alt="MongoDB, PostgreSQL, Redis, Firebase, Docker" />
 
-### ☁️ DevOps & Tools
+**Tools & Workflow**<br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&perline=10" alt="Git, GitHub, VS Code, Postman, Figma, Linux" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,postman,figma,vscode"/>
-</p>
+<br />
 
----
+## GitHub Analytics
 
-# ⏱️ Development Metrics
+<div align="center">
 
-> *Automatically updated every day using WakaTime.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ashunasar&show_icons=true&theme=transparent&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9&hide_border=true&rank_icon=github" />
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ashunasar&show_icons=true&theme=transparent&title_color=4F46E5&icon_color=0891B2&text_color=24292F&hide_border=true&rank_icon=github" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashunasar&layout=compact&theme=transparent&title_color=818CF8&text_color=C9D1D9&hide_border=true" />
+  <img width="49%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashunasar&layout=compact&theme=transparent&title_color=4F46E5&text_color=24292F&hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ashunasar&theme=transparent&hide_border=true&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  <img width="80%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=ashunasar&theme=transparent&hide_border=true&ring=0891B2&fire=4F46E5&currStreakLabel=0891B2&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashunasar&bg_color=00000000&color=818CF8&line=4F46E5&point=22D3EE&area=true&area_color=4F46E5&hide_border=true" />
+  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashunasar&bg_color=00000000&color=4F46E5&line=4F46E5&point=0891B2&area=true&area_color=4F46E5&hide_border=true" />
+</picture>
+
+</div>
+
+<br />
+
+## WakaTime Development Metrics
+
+Generated automatically from my WakaTime account by [a scheduled GitHub Action](.github/workflows/waka-readme.yml). Nothing in this section is hand-written.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C528%20hrs%2011%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.86%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 557.9 kB Used in GitHub's Storage 
- > 
-> 🏆 327 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 45 Public Repositories 
- > 
-> 🔑 69 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">7110 commits</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="49" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">13.54%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#C9D1D9">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">14149 commits</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="30" width="97" height="8" rx="6" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">26.95%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#C9D1D9">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8B949E">18994 commits</text><rect x="280" y="54" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="54" width="130" height="8" rx="6" fill="#58A6FF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8B949E">36.17%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#C9D1D9">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8B949E">12253 commits</text><rect x="280" y="78" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="78" width="84" height="8" rx="6" fill="#58A6FF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8B949E">23.34%</text></svg>
-📅 **I'm Most Productive on Sunday** 
-
-<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">7710 commits</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="53" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">14.68%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#C9D1D9">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">7161 commits</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="30" width="49" height="8" rx="6" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">13.64%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#C9D1D9">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8B949E">6782 commits</text><rect x="280" y="54" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="54" width="47" height="8" rx="6" fill="#58A6FF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8B949E">12.92%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#C9D1D9">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8B949E">6705 commits</text><rect x="280" y="78" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="78" width="46" height="8" rx="6" fill="#58A6FF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8B949E">12.77%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#C9D1D9">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8B949E">6180 commits</text><rect x="280" y="102" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="102" width="42" height="8" rx="6" fill="#58A6FF"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8B949E">11.77%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#C9D1D9">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8B949E">8724 commits</text><rect x="280" y="126" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="126" width="60" height="8" rx="6" fill="#58A6FF"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8B949E">16.62%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#C9D1D9">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8B949E">9244 commits</text><rect x="280" y="150" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="150" width="63" height="8" rx="6" fill="#58A6FF"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8B949E">17.61%</text></svg>
-
-
-📊 **This Week I Spent My Time On** 
-
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">Dart</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">6 hrs 7 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="180" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">49.98%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#C9D1D9">TypeScript</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">2 hrs 13 mins</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="30" width="65" height="8" rx="6" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">18.17%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#C9D1D9">Python</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8B949E">1 hr 13 mins</text><rect x="280" y="54" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="54" width="36" height="8" rx="6" fill="#58A6FF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8B949E">9.94%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#C9D1D9">YAML</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8B949E">57 mins</text><rect x="280" y="78" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="78" width="28" height="8" rx="6" fill="#58A6FF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8B949E">7.78%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#C9D1D9">Markdown</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8B949E">27 mins</text><rect x="280" y="102" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="102" width="13" height="8" rx="6" fill="#58A6FF"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8B949E">3.68%</text></svg>
-
-🔥 Editors: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">VS Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">6 hrs 16 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="184" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">51.19%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#C9D1D9">Claude Code</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">5 hrs 58 mins</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="30" width="176" height="8" rx="6" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">48.81%</text></svg>
-
-🐱‍💻 Projects: 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">alignmates</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">6 hrs 36 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="194" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">53.88%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#C9D1D9">alignmates_backend</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">2 hrs 53 mins</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="30" width="85" height="8" rx="6" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">23.60%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#C9D1D9">digi_rep_app</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8B949E">1 hr</text><rect x="280" y="54" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="54" width="29" height="8" rx="6" fill="#58A6FF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8B949E">8.19%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#C9D1D9">alterigo.backend.analyst.</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8B949E">1 hr</text><rect x="280" y="78" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="78" width="29" height="8" rx="6" fill="#58A6FF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8B949E">8.17%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#C9D1D9">alterigo.core.backend</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8B949E">45 mins</text><rect x="280" y="102" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="102" width="22" height="8" rx="6" fill="#58A6FF"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8B949E">6.15%</text></svg>
-
-💻 Operating System: 
-<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">Mac</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">12 hrs 15 mins</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="360" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">100.00%</text></svg>
-
-
-**I Mostly Code in Dart** 
-
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#C9D1D9">TypeScript</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">26 repos</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="6" width="81" height="8" rx="6" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">22.41%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#C9D1D9">HTML</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">8 repos</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="30" width="25" height="8" rx="6" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">6.90%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#C9D1D9">Rust</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8B949E">2 repos</text><rect x="280" y="54" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="54" width="6" height="8" rx="6" fill="#58A6FF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8B949E">1.72%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#C9D1D9">Python</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8B949E">2 repos</text><rect x="280" y="78" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="78" width="6" height="8" rx="6" fill="#58A6FF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8B949E">1.72%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#C9D1D9">Shell</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8B949E">2 repos</text><rect x="280" y="102" width="360" height="8" rx="6" fill="#21262D"/><rect x="280" y="102" width="6" height="8" rx="6" fill="#58A6FF"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8B949E">1.72%</text></svg>
-
-
-
-
- Last Updated on 10/11/2026 06:29:54 UTC
+_Metrics will appear here after the first successful run of the **WakaTime README** workflow._
 <!--END_SECTION:waka-->
 
----
+<br />
 
-# 📊 GitHub Analytics
+## Let's Connect
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashunasar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<a href="https://github.com/ashunasar"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/ashunasar"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/ashunasar023"><img src="https://img.shields.io/badge/X-3B82F6?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.instagram.com/delusionalashu/"><img src="https://img.shields.io/badge/Instagram-0891B2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:asimsiddiqui20172017@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashunasar&layout=compact&theme=tokyonight&hide_border=true"/>
+<br /><br />
 
-</p>
+Open to conversations about Flutter, backend engineering, and product ideas.
 
-<p align="center">
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=ashunasar&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:3B82F6,100:4F46E5" alt="" />
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashunasar&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/ashunasar">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/ashunasar023">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/delusionalashu/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:asimsiddiqui20172017@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-💬 Always open to discussing Flutter, backend development, open source, or exciting product ideas.
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,100:4F46E5"/>
-</p>
+</div>
