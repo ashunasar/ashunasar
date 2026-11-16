@@ -124,25 +124,25 @@ Sunday                   9244 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.25 % 
-Dart                     3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-Markdown                 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-TypeScript               1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Python                   4 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.13 % 
+Dart                     1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Markdown                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 7 mins        █████████████░░░░░░░░░░░░   51.79 % 
-VS Code                  6 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.21 % 
+Claude Code              5 hrs 42 mins       ███████████████░░░░░░░░░░   61.94 % 
+VS Code                  3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.06 % 
 
 🐱‍💻 Projects: 
-alignmates               5 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.36 % 
-alterigo.backend.analyst.4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
-alignmates_backend       2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-alignmates_website       56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-digi_rep_app             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+alterigo.backend.analyst.4 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.41 % 
+alignmates               2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+alignmates_website       56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+digi_rep_app             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+alchemist.kernel         20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 💻 Operating System: 
-Mac                      13 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -158,7 +158,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 19:06:20 UTC
+ Last Updated on 16/11/2026 06:54:31 UTC
 <!--END_SECTION:waka-->
 
 <br />
