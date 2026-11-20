@@ -95,7 +95,7 @@ Off the clock, I'm a part-time stand-up comedian. Debugging in production taught
 Generated automatically from my WakaTime account by [a scheduled GitHub Action](.github/workflows/waka-readme.yml). Nothing in this section is hand-written.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C538%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C541%20hrs%2031%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -124,25 +124,25 @@ Sunday                   9244 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.66 % 
-Python                   1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Markdown                 57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Dart                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Rust                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Dart                     2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
+Other                    2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+Markdown                 1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Python                   1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 54 mins       ██████████████████░░░░░░░   70.18 % 
-VS Code                  1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+Claude Code              4 hrs 57 mins       ████████████████░░░░░░░░░   62.39 % 
+VS Code                  2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.61 % 
 
 🐱‍💻 Projects: 
-alterigo.backend.analyst.3 hrs 25 mins       ███████████████░░░░░░░░░░   61.41 % 
-digi_rep_app             57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-video_edit               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-alchemist.svc.auto-heal  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-minigrep_2               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+digi_rep_app             3 hrs 42 mins       ████████████░░░░░░░░░░░░░   46.59 % 
+alterigo.backend.analyst.3 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.98 % 
+video_edit               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+alchemist.svc.auto-heal  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+minigrep_2               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 💻 Operating System: 
-Mac                      5 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -158,7 +158,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 20:55:51 UTC
+ Last Updated on 20/11/2026 07:38:52 UTC
 <!--END_SECTION:waka-->
 
 <br />
