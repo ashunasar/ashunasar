@@ -124,25 +124,25 @@ Sunday                   9307 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     4 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.88 % 
-Markdown                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Other                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-TypeScript               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Dart                     7 hrs 10 mins       ██████████████░░░░░░░░░░░   57.84 % 
+Markdown                 2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+TypeScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 57 mins       ███████████████░░░░░░░░░░   58.91 % 
-VS Code                  4 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   41.09 % 
+Claude Code              6 hrs 43 mins       ██████████████░░░░░░░░░░░   54.21 % 
+VS Code                  5 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.79 % 
 
 🐱‍💻 Projects: 
-digi_rep_app             6 hrs 35 mins       ████████████████░░░░░░░░░   65.05 % 
-alterigo.backend.analyst.1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-alignmates_backend       1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-video_edit               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-minigrep_2               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+digi_rep_app             10 hrs 31 mins      █████████████████████░░░░   84.82 % 
+alignmates_backend       1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+video_edit               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+minigrep_2               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+alterigo.backend.analyst.2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Mac                      10 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -158,7 +158,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026 08:02:20 UTC
+ Last Updated on 24/11/2026 10:12:58 UTC
 <!--END_SECTION:waka-->
 
 <br />
