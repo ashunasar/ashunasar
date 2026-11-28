@@ -95,7 +95,7 @@ Off the clock, I'm a part-time stand-up comedian. Debugging in production taught
 Generated automatically from my WakaTime account by [a scheduled GitHub Action](.github/workflows/waka-readme.yml). Nothing in this section is hand-written.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C566%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C568%20hrs%2022%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -124,24 +124,24 @@ Sunday                   11273 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     13 hrs 19 mins      █████████████░░░░░░░░░░░░   52.23 % 
-TypeScript               4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Markdown                 3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-YAML                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Dart                     12 hrs 26 mins      █████████████░░░░░░░░░░░░   51.02 % 
+TypeScript               3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Markdown                 3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+YAML                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 15 mins      ██████████████░░░░░░░░░░░   55.90 % 
-VS Code                  11 hrs 14 mins      ███████████░░░░░░░░░░░░░░   44.10 % 
+Claude Code              13 hrs 51 mins      ██████████████░░░░░░░░░░░   56.84 % 
+VS Code                  10 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.16 % 
 
 🐱‍💻 Projects: 
-digi_rep_app             12 hrs 40 mins      ████████████░░░░░░░░░░░░░   49.74 % 
-alignmates               6 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-alignmates_backend       5 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-alignmates_website       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+digi_rep_app             10 hrs 44 mins      ███████████░░░░░░░░░░░░░░   44.10 % 
+alignmates               7 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
+alignmates_backend       5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+alignmates_website       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Mac                      25 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -157,7 +157,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2026 21:38:27 UTC
+ Last Updated on 28/11/2026 08:09:37 UTC
 <!--END_SECTION:waka-->
 
 <br />
